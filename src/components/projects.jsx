@@ -31,7 +31,7 @@ const projectsData = [
   },
   {
     title: 'Responsive Portfolio Website',
-    description:'Modern, fully responsive portfolio website showcasing projects and skills. Built with React and styled with TailwindCSS, featuring smooth animations, dynamic recommendations section backed by Firebase Firestore,nserverless contact form to handle user inquiries and optimal performance.',
+    description:'Modern, fully responsive portfolio website showcasing projects and skills. Built with React and styled with TailwindCSS, featuring smooth animations, dynamic recommendations section backed by Firebase Firestore,serverless contact form to handle user inquiries and optimal performance.',
     image: 'Beautiful responsive portfolio website on multiple devices',
     tags: ['React', 'TailwindCSS', 'Responsive Design', 'Framer Motion'],
     category: 'Web Design',
