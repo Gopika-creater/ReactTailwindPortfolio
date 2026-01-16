@@ -35,7 +35,7 @@ const projectsData = [
     image: 'Beautiful responsive portfolio website on multiple devices',
     tags: ['React', 'TailwindCSS', 'Responsive Design', 'Framer Motion'],
     category: 'Web Design',
-    githubLink: 'https://github.com/Gopika-creater/SPA-Portfolio'
+    githubLink: 'https://github.com/Gopika-creater/ReactTailwindPortfolio/'
   }
 ];
 
