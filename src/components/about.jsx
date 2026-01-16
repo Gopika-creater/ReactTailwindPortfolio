@@ -41,8 +41,8 @@ const About = () => {
             >
               <p className="text-gray-700 text-lg leading-relaxed">
                 I'm a dedicated Computer and Communication engineering student with a passion for
-                creating innovative solutions through code. My interests span software development
-                web development, IoT, and machine learning.
+                creating innovative solutions through code.I build scalable web applications, secure APIs, and data-driven solutions.
+                I focus on clean architecture, debugging, testing, and delivering reliable software that solves real-world problems.
               </p>
 
               <div className="space-y-4">
